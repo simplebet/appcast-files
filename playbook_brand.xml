@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>For unit test only</title>
+    <!-- A release testing minimumSystemVersion -->
+    <item>
+        <title>Version 4.0</title>
+        <pubDate>Thurs, 26 Jan 2023 16:00:00 +0000</pubDate>
+        <sparkle:minimumSystemVersion>4.0.0</sparkle:minimumSystemVersion>
+    </item>
+  </channel>
+</rss>
