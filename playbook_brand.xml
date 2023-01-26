@@ -8,6 +8,7 @@
         <pubDate>Thurs, 26 Jan 2023 16:00:00 +0000</pubDate>
         <sparkle:minimumSystemVersion>4.0.0</sparkle:minimumSystemVersion>
         <sparkle:version>4.0.0</sparkle:version>
+        <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.example" sparkle:version="4.0.0" />
     </item>
   </channel>
